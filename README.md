@@ -33,23 +33,23 @@ The objective was to transform customer and sales records into meaningful busine
 
 ### Dashboard 1 — Customer Overview
 
-![Customer Overview](1.png)
+![Customer Overview](lc1.png)
 
 ### Dashboard 2 — Sales Performance
 
-![Sales Performance](2.png)
+![Sales Performance](lc2.png)
 
 ### Dashboard 3 — Customer Analysis
 
-![Customer Analysis](3.png)
+![Customer Analysis](lc3.png)
 
 ### Dashboard 4 — Geographic Insights
 
-![Geographic Analysis](4.png)
+![Geographic Analysis](lc4.png)
 
 ### Dashboard 5 — Business Insights
 
-![Business Insights](5.png)
+![Business Insights](lc5.png)
 
 ## Analytical Insights
 
